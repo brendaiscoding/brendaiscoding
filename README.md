@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou a Brenda!</h1>
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?color=ffcad4&size=25&center=true&vCenter=true&width=500&lines=Bem-vindo(a)+ao+meu+GitHub!;Desenvolvedora+em+formação">
+<img src="https://readme-typing-svg.herokuapp.com/?color=ff99c8&size=25&center=true&vCenter=true&width=500&lines=Bem-vindo(a)+ao+meu+GitHub!;Desenvolvedora+em+formação">
 </div>
 
 ---
