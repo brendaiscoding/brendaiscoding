@@ -1,28 +1,27 @@
-<h1 align="center">👋 Olá, eu sou a Brenda!</h1>
+<h1 align="center">Olá, eu sou a Brenda!</h1>
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=Bem-vindos(as)+ao+meu+GitHub!;Desenvolvedora+em+formação;Sempre+aprendendo+🚀">
+<img src="https://readme-typing-svg.herokuapp.com/?color=ffcad4&size=25&center=true&vCenter=true&width=500&lines=Bem-vindo(a)+ao+meu+GitHub!;Desenvolvedora+em+formação">
 </div>
 
 ---
 
-### 💻 Sobre mim
+### 🌸 Sobre mim
 
-- 🎓 Estudo Ciência da Computação na Feevale
-- 🌱 Atualmente aprendendo Java, HTML, CSS, JavaScript e Node
-- 💡 Tenho interesse em Front-end, UI/UX e desenvolvimento web
-- 🚀 Buscando minha primeira oportunidade na área de tecnologia
+- 🎓 Ciência da Computação na Feevale (3/10)
+- 📚 Atualmente aprendendo Java, HTML, CSS, JavaScript e NodeJS
+- 🩷 Desenvolvimento Web | UI/UX | Front-end
 
 ---
 
-### 🌐 Me encontre em:
+### 📸 Minhas redes sociais
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brenda-jaiany-de-oliveira-781958328/?skipRedirect=true)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/smf.brenda/)
 
 ---
 
-### 🛠️ Tecnologias
+### 💻 Tecnologias
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -33,23 +32,17 @@
 
 ### 📊 Estatísticas
 
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=brendaiscoding&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=brendaiscoding&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=brendaiscoding&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=brendaiscoding&layout=compact&langs_count=8&theme=cobalt"/>
 
 ---
 
 ### 🔥 Consistência
 
-![GitHub Streak](https://streak-stats.demolab.com?user=brendaiscoding&theme=tokyonight)
-
----
-
-### 🏆 Conquistas
-
-![trophy](https://github-profile-trophy.vercel.app/?username=brendaiscodingIO&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=brendaiscoding&theme=cobalt)
 
 ---
 
 ### 📈 Gráfico de contribuições
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=brendaiscoding&theme=tokyo-night)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=brendaiscoding&theme=cobalt)
