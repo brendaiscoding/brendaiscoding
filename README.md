@@ -39,10 +39,10 @@
 
 ### 🔥 Consistência
 
-![GitHub Streak](https://streak-stats.demolab.com?user=brendaiscoding&theme=monokai-metallian)
+![GitHub Streak](https://streak-stats.demolab.com?user=brendaiscoding&theme=omni)
 
 ---
 
 ### 📈 Gráfico de contribuições
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=brendaiscoding&theme=monokai-metallian)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=brendaiscoding&theme=omni)
