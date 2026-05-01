@@ -1,6 +1,8 @@
 <h1 align="center">👋 Olá, eu sou a Brenda!</h1>
 
-<h3 align="center">Estudante de Ciência da Computação | Desenvolvedora em formação</h3>
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=Bem-vinda+ao+meu+GitHub!;Desenvolvedora+em+formação;Sempre+aprendendo+🚀">
+</div>
 
 ---
 
@@ -38,6 +40,18 @@
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=brendaiscoding&layout=compact&langs_count=8&theme=tokyonight"/>
 
 </div>
+
+---
+
+### 🔥 Consistência
+
+![GitHub Streak](https://streak-stats.demolab.com?user=brendaiscoding&theme=tokyonight)
+
+---
+
+### 🏆 Conquistas
+
+![trophy](https://github-profile-trophy.vercel.app/?username=brendaiscodingIO&theme=tokyonight)
 
 ---
 
