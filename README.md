@@ -32,17 +32,17 @@
 
 ### 📊 Estatísticas
 
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=brendaiscoding&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=brendaiscoding&layout=compact&langs_count=8&theme=cobalt"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=brendaiscoding&show_icons=true&theme=monokai-metallian&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=brendaiscoding&layout=compact&langs_count=8&theme=monokai-metallian"/>
 
 ---
 
 ### 🔥 Consistência
 
-![GitHub Streak](https://streak-stats.demolab.com?user=brendaiscoding&theme=cobalt)
+![GitHub Streak](https://streak-stats.demolab.com?user=brendaiscoding&theme=monokai-metallian)
 
 ---
 
 ### 📈 Gráfico de contribuições
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=brendaiscoding&theme=cobalt)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=brendaiscoding&theme=monokai-metallian)
