@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou a Brenda!</h1>
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=Bem-vinda+ao+meu+GitHub!;Desenvolvedora+em+formação;Sempre+aprendendo+🚀">
+<img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=Bem-vindos(as)+ao+meu+GitHub!;Desenvolvedora+em+formação;Sempre+aprendendo+🚀">
 </div>
 
 ---
