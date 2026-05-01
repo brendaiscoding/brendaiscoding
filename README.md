@@ -33,9 +33,9 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=brendaiscoding&show_icons=true&theme=tokyonight)
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=brendaiscoding&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brendaiscoding&layout=compact&theme=tokyonight&hide_border=true)
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=brendaiscoding&layout=compact&langs_count=8&theme=tokyonight"/>
 
 </div>
 
